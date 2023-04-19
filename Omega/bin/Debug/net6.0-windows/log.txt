@@ -1,0 +1,124 @@
+
+Log Entry : 20:23:09 pondělí 17. dubna 2023
+  :doe logged in.
+-------------------------------
+
+Log Entry : 19:30:35 úterý 18. dubna 2023
+  :Log in unsuccessful.
+-------------------------------
+
+Log Entry : 19:30:43 úterý 18. dubna 2023
+  :doe logged in.
+-------------------------------
+
+Log Entry : 19:45:37 úterý 18. dubna 2023
+  :doe logged in.
+-------------------------------
+
+Log Entry : 20:34:38 úterý 18. dubna 2023
+  :doe logged in.
+-------------------------------
+
+Log Entry : 20:35:13 úterý 18. dubna 2023
+  :Task Addedd.
+-------------------------------
+
+Log Entry : 20:35:38 úterý 18. dubna 2023
+  :Comment added.
+-------------------------------
+
+Log Entry : 20:49:44 úterý 18. dubna 2023
+  :doe logged in.
+-------------------------------
+
+Log Entry : 20:58:44 úterý 18. dubna 2023
+  :doe logged in.
+-------------------------------
+
+Log Entry : 20:59:34 úterý 18. dubna 2023
+  :doe logged in.
+-------------------------------
+
+Log Entry : 21:11:54 úterý 18. dubna 2023
+  :doe logged in.
+-------------------------------
+
+Log Entry : 21:12:49 úterý 18. dubna 2023
+  :doe logged in.
+-------------------------------
+
+Log Entry : 21:13:35 úterý 18. dubna 2023
+  :doe logged in.
+-------------------------------
+
+Log Entry : 21:52:54 úterý 18. dubna 2023
+  :smith logged in.
+-------------------------------
+
+Log Entry : 21:53:54 úterý 18. dubna 2023
+  :smith logged in.
+-------------------------------
+
+Log Entry : 21:55:14 úterý 18. dubna 2023
+  :Log in unsuccessful.
+-------------------------------
+
+Log Entry : 21:55:19 úterý 18. dubna 2023
+  :smith logged in.
+-------------------------------
+
+Log Entry : 21:57:43 úterý 18. dubna 2023
+  :doe logged in.
+-------------------------------
+
+Log Entry : 21:58:58 úterý 18. dubna 2023
+  :doe logged in.
+-------------------------------
+
+Log Entry : 21:59:49 úterý 18. dubna 2023
+  :doe logged in.
+-------------------------------
+
+Log Entry : 12:32:43 středa 19. dubna 2023
+  :doe logged in.
+-------------------------------
+
+Log Entry : 12:39:21 středa 19. dubna 2023
+  :Task Addedd.
+-------------------------------
+
+Log Entry : 12:42:37 středa 19. dubna 2023
+  :doe logged in.
+-------------------------------
+
+Log Entry : 12:43:00 středa 19. dubna 2023
+  :Comment added.
+-------------------------------
+
+Log Entry : 12:43:57 středa 19. dubna 2023
+  :User changed informations.
+-------------------------------
+
+Log Entry : 12:44:16 středa 19. dubna 2023
+  :User changed informations.
+-------------------------------
+
+Log Entry : 12:44:39 středa 19. dubna 2023
+  :doe logged in.
+-------------------------------
+
+Log Entry : 12:44:56 středa 19. dubna 2023
+  :doe  logged in.
+-------------------------------
+
+Log Entry : 12:48:05 středa 19. dubna 2023
+  :doe logged in.
+-------------------------------
+
+Log Entry : 12:49:52 středa 19. dubna 2023
+  :User changed informations.
+-------------------------------
+
+Log Entry : 12:50:06 středa 19. dubna 2023
+  :root logged in.
+-------------------------------

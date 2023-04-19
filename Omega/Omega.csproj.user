@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\tomas\source\repos\Omega\Omega\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AddProjectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddTaskForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CommentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DashboardContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FinishedTasksContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProjectContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignleProjectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SingleEmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaskForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="config\App.config">
+      <SubType>Component</SubType>
+    </None>
+  </ItemGroup>
+</Project>
