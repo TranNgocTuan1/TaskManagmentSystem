@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Omega.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="Omega.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -188,31 +188,31 @@
       <dsig:DigestValue>fWCCENg8HDv1DZAHP7H2vyRuNOIJ90XufkIDhU5Y+l0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Omega.dll" size="119808">
+  <file name="Omega.dll" size="120320">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>A5JP7Ig0lNZdZp3nHnyzHVI3qpEfF9ruVYS2kU4lJrg=</dsig:DigestValue>
+      <dsig:DigestValue>U7a8LRaXjDjjX0vLRQG6wFnXLEYcCpmWQXlHT65tK2k=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Omega.dll.config" size="296">
+  <file name="Omega.dll.config" size="270">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>eYl/BHScdwGkh3Vy9x8lvkQl/f66BA9iqFRByH1IF08=</dsig:DigestValue>
+      <dsig:DigestValue>GuKsA8/z35ApDlLrVcY+rj8ynvHpsaVYhRxBOqDxEBM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Omega.exe" size="148480">
+  <file name="Omega.exe" size="148992">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>xn8HJP1fX1jMdu3RqJmmUO5t8w4NBZkQ4wFxwKy3p3w=</dsig:DigestValue>
+      <dsig:DigestValue>ik/KoS8cSMQlDN2jX6Eug8FuSPm/8IRLXGgEtSje4T4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Omega.runtimeconfig.json" size="372">

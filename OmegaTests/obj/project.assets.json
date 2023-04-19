@@ -7651,24 +7651,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tranngoc\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\tomas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C4b_Tran\\TaskManagmentSystem-main\\OmegaTests\\OmegaTests.csproj",
+      "projectUniqueName": "C:\\Users\\tomas\\OneDrive\\Plocha\\FinalProject\\TaskManagmentSystem\\OmegaTests\\OmegaTests.csproj",
       "projectName": "OmegaTests",
-      "projectPath": "D:\\C4b_Tran\\TaskManagmentSystem-main\\OmegaTests\\OmegaTests.csproj",
-      "packagesPath": "C:\\Users\\tranngoc\\.nuget\\packages\\",
-      "outputPath": "D:\\C4b_Tran\\TaskManagmentSystem-main\\OmegaTests\\obj\\",
+      "projectPath": "C:\\Users\\tomas\\OneDrive\\Plocha\\FinalProject\\TaskManagmentSystem\\OmegaTests\\OmegaTests.csproj",
+      "packagesPath": "C:\\Users\\tomas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tomas\\OneDrive\\Plocha\\FinalProject\\TaskManagmentSystem\\OmegaTests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\tranngoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7682,8 +7677,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\C4b_Tran\\TaskManagmentSystem-main\\Omega\\Omega.csproj": {
-              "projectPath": "D:\\C4b_Tran\\TaskManagmentSystem-main\\Omega\\Omega.csproj"
+            "C:\\Users\\tomas\\OneDrive\\Plocha\\FinalProject\\TaskManagmentSystem\\Omega\\Omega.csproj": {
+              "projectPath": "C:\\Users\\tomas\\OneDrive\\Plocha\\FinalProject\\TaskManagmentSystem\\Omega\\Omega.csproj"
             }
           }
         }
@@ -7730,7 +7725,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
