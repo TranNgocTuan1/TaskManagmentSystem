@@ -122,3 +122,7 @@ Log Entry : 12:49:52 středa 19. dubna 2023
 Log Entry : 12:50:06 středa 19. dubna 2023
   :root logged in.
 -------------------------------
+
+Log Entry : 16:22:09 čtvrtek 20. dubna 2023
+  :doe logged in.
+-------------------------------
